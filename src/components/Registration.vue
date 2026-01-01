@@ -88,7 +88,7 @@
 
             <tr v-if="!users.length">
               <td colspan="8" class="empty-state">
-                No records found
+                No records found here
               </td>
             </tr>
           </tbody>
